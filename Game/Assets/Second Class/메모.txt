@@ -1,0 +1,24 @@
+Animator
+	Idle -> Run transion
+	Has Exit Time의 기능
+	사용시 애니메이션 끝까지 진행후 다음 동작 실행
+
+	Parameters (+)
+	Bool -> True/False
+	Trigger -> 조건부 실행
+
+Button (Legacy)
+	Anchor Preset
+	Shift 피벗(기준점)활성화
+	Alt 위치 편향화
+	피벗 좌표는 4분면법을 따름
+	
+Animator Mangaer
+	Hierarchy에 빈 오브젝트 생성후 컴포넌트에 AnimatorManager.cs를 부착해야 메모리를 할당함.
+
+
+참조 사이트
+3D 모델링 및 애니메이션
+https://www.mixamo.com/
+이미지
+https://pixabay.com/
