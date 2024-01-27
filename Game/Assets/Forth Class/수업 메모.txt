@@ -1,0 +1,4 @@
+Inspector - Prefab - overrides 에서 프리팹까지 수정 가능
+Hierachy 메뉴에서 프리팹 연결 끊을 수 있음
+	Unpack 			자기 자신만 끊음
+	Unpack Completely 	자식 오브젝트 까지 끊음
